@@ -1,0 +1,26 @@
+{
+  "name": "postcss-trek-select",
+  "version": "1.0.1",
+  "description": "Defined value picker for Trek.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "peerDependencies": {
+    "postcss": "^8.0.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Taha Kelesoglu (nofloor)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nofloor/postcss-trek-select.git"
+  },
+  "homepage": "https://github.com/nofloor/postcss-trek-select",
+  "bugs": {
+    "url": "https://github.com/nofloor/postcss-trek-select/issues"
+  }
+}
